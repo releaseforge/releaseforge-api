@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ReleaseForge.Api/ReleaseForge.Api.csproj" />
+    <Project Path="src/ReleaseForge.Application/ReleaseForge.Application.csproj" />
+    <Project Path="src/ReleaseForge.Domain/ReleaseForge.Domain.csproj" />
+    <Project Path="src/ReleaseForge.Infrastructure/ReleaseForge.Infrastructure.csproj" />
+  </Folder>
+</Solution>
